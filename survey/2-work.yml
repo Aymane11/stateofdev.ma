@@ -9,7 +9,7 @@ questions:
       - Employed full-time
       - Freelancer, or self-employed
       - Employed part-time
-      - Looking for work
+      - Looking for a job
       - Student
 
   - label: How often you work overtime or beyond the formal time expectation of your job?
@@ -53,7 +53,7 @@ questions:
       - "20 000 - 25 000"
       - "> 25 000"
 
-  - label: what characteristics would most influence your decision to choose one job offer over another?
+  - label: What characteristics would most influence your decision to choose one job offer over another?
     required: true
     multiple: true
     choices:
@@ -78,9 +78,9 @@ questions:
   - label: What is the impact of COVID-19 Pandemic in remote work policy in your company ?
     choices:
       - We were doing remote before
-      - The company started remote after covid
+      - The company started remote after COVID
       - No remote policy yet
-  - label: Which of the following sentence describes your productivity in COVID 19 Pandemic ?
+  - label: Which of the following sentences describes your productivity in COVID 19 Pandemic ?
     choices:
       - The current Pandemic impacted very negatively my productivity
       - The current Pandemic somehow impacted negatively my productivity
